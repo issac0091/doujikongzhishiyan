@@ -1,5 +1,6 @@
 {
     "name": "舵机控制实验",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
